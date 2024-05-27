@@ -120,3 +120,6 @@ a:hover{
     color: green;
     border-radius: 7px;
 }
+img{
+    height: 40px;
+}
